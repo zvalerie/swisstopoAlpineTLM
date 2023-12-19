@@ -9,7 +9,7 @@ def parse_args():
                         type=int)
     parser.add_argument('--out_dir',
                         help='directory to save outputs',
-                        default='output_gaussian/',
+                        default='output/',
                         type=str)
     parser.add_argument('--save_raster',
                         help='save predictions as raster, True/False',
@@ -44,11 +44,11 @@ def parse_args():
                         type=str)
     parser.add_argument('--img_dir',
                         help='directory to store SWISSIMAGES files',
-                        default='/data/valerie/swisstopo/SI_2020_50cm/',
+                        default='',
                         type=str)
     parser.add_argument('--dem_dir',
                         help='directory to store SWISSAlti3d files',
-                        default='/data/valerie/swisstopo/ALTI_2020_50cm/',
+                        default='',
                         type=str)
     parser.add_argument('--dataset',
                         help='choose between local dataset and online dataset',
