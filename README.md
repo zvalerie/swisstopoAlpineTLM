@@ -1,7 +1,7 @@
 # swisstopoAlpineTLM
 Generate alpine land cover prediction based on swisstopo TLM labels, SwissIMAGE and SwissALTI3D raster layers.
 
-![Alt Text](relative_path_to_your_image)
+![Alt Text](data/shp/grid_area_above_200m/grid_area_above2000m.PNG)
 
 
 ## How to use the script given here :
