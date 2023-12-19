@@ -1,0 +1,15 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+numpy=1.25.2=py310h5f9d8c6_0
+pandas=2.0.3=py310h1128e8f_0
+pillow=9.4.0=py310h6a678d5_0
+python=3.10.13=h7a1cb2a_0
+pytorch=1.13.1=py3.10_cuda11.6_cudnn8.3.2_0
+pytorch-cuda=11.6=h867d48c_1
+rasterio=1.2.10=py310ha4a3290_0
+scikit-learn=1.3.0=py310h1128e8f_0
+torchvision=0.15.2=cpu_py310h83e0c9b_0
+tqdm=4.65.0=py310h2f386ee_0
+wandb=0.13.10=pyhd8ed1ab_0
+yaml=0.2.5=h7b6447c_0
