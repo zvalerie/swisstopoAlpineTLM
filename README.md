@@ -30,5 +30,5 @@ conda env create --file environment.yml
 
 example of command line prompt : 
 ```bash
-python your_script.py --out_dir output/ --save_raster --save_png  -dataset online
+python main.py --out_dir output/ --save_raster --save_png  -dataset online
 ```
